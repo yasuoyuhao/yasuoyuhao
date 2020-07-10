@@ -53,7 +53,6 @@ CTO，作家，終身學習者、得到重度用戶、指數 ETF 被動投資愛
 
 * Continuous Integration
 * Continuous Delivery
-* Microservices
 * Infrastructure as Code
 * Monitoring and Logging
 * Communication and Collaboration
@@ -62,7 +61,13 @@ CTO，作家，終身學習者、得到重度用戶、指數 ETF 被動投資愛
 * GitLab CI
 * Azure DevOps
 
-### Agile* 
+### Architecture
+
+* Cloud Native
+* Microservices
+* Service Mesh
+
+### Agile
 
 * Scrum
 * Extreme Programming
