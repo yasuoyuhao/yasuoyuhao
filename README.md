@@ -1,5 +1,7 @@
 # yu | yasuoyuhao
 
+[![yasuoyuhao's github stats](https://github-readme-stats.vercel.app/api?username=yasuoyuhao)](https://github.com/anuraghazra/github-readme-stats)
+
 CTO，作家，終身學習者、得到重度用戶、指數 ETF 被動投資愛好者、金融研究愛好者，喜歡做菜。
 
 ## Skills
