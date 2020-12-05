@@ -6,6 +6,8 @@ CTO，作家，終身學習者、得到重度用戶、指數 ETF 被動投資愛
 
 [![yasuoyuhao's github stats](https://github-readme-stats.vercel.app/api?username=yasuoyuhao&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasuoyuhao&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills
 
 ### Mobile Dev
