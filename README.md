@@ -34,6 +34,10 @@ CTO，作家，終身學習者、得到重度用戶、指數 ETF 被動投資愛
 * Laravel
 * ELK
 
+### User Experience
+* User testing
+* Web usability
+
 ### BlockChain Dev
 
 * 以太坊 Ethereum Smart Contract
@@ -41,10 +45,11 @@ CTO，作家，終身學習者、得到重度用戶、指數 ETF 被動投資愛
 * Dapp
 * 區塊鏈 BlockChain Application
 
-### Container
+### Container & Mircoservice
 
 * docker
 * Kubernetes
+* Istio
 
 ### Cloud
 
@@ -83,6 +88,7 @@ CTO，作家，終身學習者、得到重度用戶、指數 ETF 被動投資愛
 
 * Raspberry Pi
 * Apple HomeKit
+* Technical Articl
 
 ## 相關熱門文章
 
